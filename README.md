@@ -24,6 +24,7 @@ Formulate a comprehensive annual sales report , So that owner of Store can under
 ![Screenshot(495)](https://github.com/Alazizu6798/Excel-Dashboard/blob/main/Sale%20Data%20Dashboard.png)
 
 # Project Insights 
+
 - Phones are more likely to be first priority of the customers.
 - Tamara Chand, Raymond Buch, Sanjit Chand, Hunter Lopez, Adrain Barton are top 5 Customers.
 - 16.50% of Customer Count is being Increased in last 4 years.
